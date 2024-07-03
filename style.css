@@ -1,0 +1,12 @@
+h3{
+    background-color: aqua;
+    text-shadow: 10px;
+    text-align: center;
+}
+.ready{
+    color: chartreuse;
+    background-color: black;
+    border: 10px solid rebeccapurple;
+    margin: 20px;
+    box-shadow: 10px;
+}
